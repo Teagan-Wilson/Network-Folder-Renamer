@@ -4,3 +4,8 @@ A power-shell gui tool designed to rename those folder that always have users co
 To customize: 
 $servername = "server"   \\ This is the server on which the user connections are closed. 
 $driveletter = 'E'       \\ The Drive letter on the SERVER where the share is stored
+
+
+Functions: 
+        Givith
+        Takethaway
